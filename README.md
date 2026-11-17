@@ -6,13 +6,15 @@
 
 ## Español
 
-Diario de trading con analíticas y una Consola de gráficos, para macOS. Esta página solo contiene los instaladores de la beta.
+Diario de trading con analíticas y una Consola de gráficos, para macOS y Windows. Esta página solo contiene los instaladores de la beta.
 
 **Descarga** (en *Releases*, a la derecha) según tu Mac (menú  → Acerca de este Mac):
 - Chip Apple M1, M2, M3… → `Trading-Journal-arm64.dmg`
 - Procesador Intel → `Trading-Journal-intel.dmg`
 
 Dentro del `.dmg` encontrarás la app, la carpeta Aplicaciones y la **guía de la beta en español e inglés**.
+
+**Windows 11 (64 bits):** descarga `Trading-Journal-windows.zip`, extráelo (clic derecho → *Extraer todo…*) y abre `Trading Journal.exe` de la carpeta `Trading Journal`. La versión de Windows **no está firmada**: la primera vez verás «Windows protegió su PC»; pulsa **Más información → Ejecutar de todas formas**. El zip trae también la guía en español e inglés.
 
 La app está **firmada y notarizada por Apple**: la primera vez macOS preguntará si quieres abrirla, y basta con pulsar **Abrir**.
 
@@ -22,13 +24,15 @@ Cada release lleva los **SHA-256** de los instaladores en sus notas, por si quie
 
 ## English
 
-A trading journal with analytics and a chart Console, for macOS. This page only holds the beta installers.
+A trading journal with analytics and a chart Console, for macOS and Windows. This page only holds the beta installers.
 
 **Download** (under *Releases*, on the right) according to your Mac (menu  → About This Mac):
 - Apple M1, M2, M3… chip → `Trading-Journal-arm64.dmg`
 - Intel processor → `Trading-Journal-intel.dmg`
 
 Inside the `.dmg` you'll find the app, the Applications folder and the **beta guide in Spanish and English**.
+
+**Windows 11 (64-bit):** download `Trading-Journal-windows.zip`, extract it (right-click → *Extract All…*) and open `Trading Journal.exe` in the `Trading Journal` folder. The Windows version is **not signed**: the first time you'll see “Windows protected your PC”; click **More info → Run anyway**. The zip also contains the guide in Spanish and English.
 
 The app is **signed and notarised by Apple**: the first time, macOS will ask whether to open it, and you just click **Open**.
 
